@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3>Conversions</h3>
+<h2>Conversions</h2>
 </div>
 
 `Celcius to Fahrenheit`<br>

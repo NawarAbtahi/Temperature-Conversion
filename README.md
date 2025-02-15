@@ -2,7 +2,7 @@
 <h1>Temperature Converter [c]</h1>
 </div>
 
-`Celcius to Fahrenheit`\n
+`Celcius to Fahrenheit`<br>
 `Celcius to Kelvin`\n
 `Fahrenheit to Celcius`\n
 `Fahrenheit to Kelvin`\n

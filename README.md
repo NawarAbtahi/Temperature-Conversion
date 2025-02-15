@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3>Temperature Converter [c]</h3>
+<h3>Conversions</h3>
 </div>
 
 `Celcius to Fahrenheit`<br>

@@ -2,7 +2,9 @@
 <h1>Temperature Converter [c]</h1>
 </div>
 
-<h3 text-align="center">Conversion</h3>
+<div align="center">
+<h3>Temperature Converter [c]</h3>
+</div>
 
 `Celcius to Fahrenheit`<br>
 `Celcius to Kelvin`<br>

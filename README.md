@@ -3,8 +3,8 @@
 </div>
 
 `Celcius to Fahrenheit`<br>
-`Celcius to Kelvin`\n
-`Fahrenheit to Celcius`\n
-`Fahrenheit to Kelvin`\n
-`Kelvin to Celcius`\n
-`Kelvin to Fahrenheit`\n
+`Celcius to Kelvin`<br>
+`Fahrenheit to Celcius`<br>
+`Fahrenheit to Kelvin`<br>
+`Kelvin to Celcius`<br>
+`Kelvin to Fahrenheit`<br>
